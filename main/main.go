@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Main started")
+	fmt.Println("Main staring")
 	app.StartApp()
+
 }
